@@ -2,7 +2,7 @@
 
 ## Demo Video
 
-![Video Preview](https://img.shields.io/badge/Watch%20Demo-Play%20Video-blue?style=for-the-badge&logo=github)
+<video src="./video.mp4" width="300"></video>
 
 **[▶️ Click here to view the demo video](./video.mp4)**
 
